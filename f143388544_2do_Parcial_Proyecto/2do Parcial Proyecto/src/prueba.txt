@@ -1,0 +1,14 @@
+pre
+¿Es una reina?
+pre
+¿Tiene rey?
+resp
+La reina de corazones
+pre
+¿Es la villana del primer largometraje animado?
+resp
+La reina malvada
+pre
+¿Ha sido viuda dos veces?
+resp 
+Lady Termaine
