@@ -1,0 +1,108 @@
+1000
+pre
+¿Es el antagonista de una pelicula con una princesa Disney?
+700
+pre
+¿Es mujer?
+1762
+pre
+¿Es un animal?
+484
+pre
+¿Es una reina?
+883
+pre
+¿Puede hacer algún tipo de magia?
+1545
+pre
+¿Es el hermano menor del rey?
+1813
+pre
+¿Lo que más desea es un abrigo?
+253
+pre
+¿Es la villana del primer largometraje animado?
+533
+pre
+¿Puede hacer algún tipo de magia?
+800
+pre
+¿Tiene influencia en el más allá?
+944
+pre
+¿Desea casarse con la chica más bonita del pueblo?
+1301
+resp
+Scar
+1568
+pre
+¿Le teme al fuego?
+1801
+resp
+Cruella de Vil
+1883
+pre
+¿Le teme al tic tac del reloj?
+171
+resp
+La reina malvada
+502
+pre
+¿Finge ayudar a pobres almas en desgracia?
+580
+pre
+¿Desea ser joven y bella por siempre?
+798
+resp
+Doctor Facilier
+841
+pre
+¿En algún momento de su película está buscando a un diamante en bruto?
+911
+resp
+Gastón
+969
+pre
+¿Es el menor de trece hermanos?
+1550
+resp
+Shere Khan
+1819
+resp
+Garfio
+1990
+pre
+¿Tiene un perro de tres cabezas?
+491
+resp
+Úrsula
+516
+pre
+¿Es vencida por la espada de la verdad?
+560
+resp
+Madre Gothel
+612
+pre
+¿Ha sido viuda dos veces?
+821
+resp
+Jafar
+956
+resp
+Hans Westergard
+1919
+resp
+Hades
+2025
+pre
+¿Al final termina convertida en un gatito?
+504
+resp
+Maléfica
+600
+resp
+Lady Tremaine
+2008
+resp
+Yzma
